@@ -1,0 +1,132 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R] >>
+endobj
+4 0 obj
+<< /Length 3657 >>
+stream
+BT
+/F2 18 Tf 1 0 0 1 50 760 Tm (iPhone Data Manager for Mac \(macOS 12+ Apple Silicon\)) Tj
+/F1 11 Tf 1 0 0 1 50 738 Tm (Technical Architecture, Local Backup Extraction, External SSD & WhatsApp SHA-256 PDF Guide) Tj
+/F1 10 Tf 1 0 0 1 50 718 Tm (Official Website: https://iphonedatamanager.com   |   Wikidata Entity: Q141886493) Tj
+/F2 13 Tf 1 0 0 1 50 688 Tm (1. Executive Summary & Local-First Privacy Architecture) Tj
+/F1 10 Tf 1 0 0 1 50 670 Tm (iPhone Data Manager is an Apple-notarized, native arm64 macOS application engineered to create) Tj
+/F1 10 Tf 1 0 0 1 50 656 Tm (local and external SSD iPhone backups, decode MobileSync Manifest.db SQLite databases in) Tj
+/F1 10 Tf 1 0 0 1 50 642 Tm (strictly read-only mode, and export WhatsApp, iMessage/SMS, Photos, Contacts, and App Files.) Tj
+/F2 13 Tf 1 0 0 1 50 614 Tm (2. Direct External SSD Backups & Lean Mode \(Database-Only Snapshots\)) Tj
+/F1 10 Tf 1 0 0 1 50 596 Tm (- Bypasses macOS Finder's internal startup disk lock-in without fragile Terminal symlinks.) Tj
+/F1 10 Tf 1 0 0 1 50 582 Tm (- Lean Mode backs up essential SQLite databases \(WhatsApp ChatStorage.sqlite, AddressBook,) Tj
+/F1 10 Tf 1 0 0 1 50 568 Tm (  and SMS sms.db\) while sparing up to 90% of Mac disk space.) Tj
+/F1 10 Tf 1 0 0 1 50 554 Tm (- Data Time Machine diffs any two historical backups to identify added or deleted records.) Tj
+/F2 13 Tf 1 0 0 1 50 526 Tm (3. Cryptographic SHA-256 WhatsApp PDF Transcripts & Business Lead Extraction) Tj
+/F1 10 Tf 1 0 0 1 50 508 Tm (- Reads AppDomainGroup-group.net.whatsapp.WhatsApp.shared/ChatStorage.sqlite locally on Mac.) Tj
+/F1 10 Tf 1 0 0 1 50 494 Tm (- Bypasses the 10,000 / 40,000 message in-app iOS export truncation limit.) Tj
+/F1 10 Tf 1 0 0 1 50 480 Tm (- Generates printable PDF transcripts with per-message SHA-256 hashes and a root document hash.) Tj
+/F1 10 Tf 1 0 0 1 50 466 Tm (- Extracts phone numbers, emails, and checksum-validated IBANs to UTF-8 CSV spreadsheets.) Tj
+/F2 13 Tf 1 0 0 1 50 438 Tm (4. Official Documentation, Comparisons & Interactive Engineering Tools) Tj
+/F1 10 Tf 1 0 0 1 50 418 Tm (- Official Website & Free Mac Download: https://iphonedatamanager.com/download) Tj
+/F1 10 Tf 1 0 0 1 50 400 Tm (- Free macOS Backup Engineering Toolkit: https://iphonedatamanager.com/tools) Tj
+/F1 10 Tf 1 0 0 1 50 382 Tm (- Best iMazing Alternative for Mac: https://iphonedatamanager.com/imazing-alternative-mac) Tj
+/F1 10 Tf 1 0 0 1 50 364 Tm (- Best Ecamm PhoneView Alternative: https://iphonedatamanager.com/phoneview-alternative-mac) Tj
+/F1 10 Tf 1 0 0 1 50 346 Tm (- Best AnyTrans Alternative for Mac: https://iphonedatamanager.com/anytrans-alternative-mac) Tj
+/F1 10 Tf 1 0 0 1 50 328 Tm (- Best Wondershare Dr.Fone Alternative: https://iphonedatamanager.com/drfone-alternative-mac) Tj
+/F1 10 Tf 1 0 0 1 50 310 Tm (- Best Tenorshare iCareFone Alternative: https://iphonedatamanager.com/icarefone-alternative-mac) Tj
+/F1 10 Tf 1 0 0 1 50 292 Tm (- Export WhatsApp Chat on Mac \(PDF/CSV\): https://iphonedatamanager.com/export-whatsapp-chat-iphone-mac) Tj
+/F1 10 Tf 1 0 0 1 50 274 Tm (- Backup iPhone to External SSD on Mac: https://iphonedatamanager.com/backup-iphone-to-external-drive-mac) Tj
+/F1 10 Tf 1 0 0 1 50 256 Tm (- iPhone Backup Extractor for Mac: https://iphonedatamanager.com/iphone-backup-extractor-mac) Tj
+/F2 12 Tf 1 0 0 1 50 224 Tm (5. International Editions \(TR / DE / FR / ES\)) Tj
+/F1 10 Tf 1 0 0 1 50 206 Tm (- Turkce: https://iphonedatamanager.com/tr/   |   Deutsch: https://iphonedatamanager.com/de/) Tj
+/F1 10 Tf 1 0 0 1 50 190 Tm (- Francais: https://iphonedatamanager.com/fr/ |   Espanol: https://iphonedatamanager.com/es/) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+7 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 714 320 728] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com) >> >>
+endobj
+8 0 obj
+<< /Type /Annot /Subtype /Link /Rect [340 714 540 728] /Border [0 0 0] /A << /S /URI /URI (https://www.wikidata.org/wiki/Q141886493) >> >>
+endobj
+9 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 414 520 426] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/download) >> >>
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 396 520 408] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/tools) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 378 520 390] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/imazing-alternative-mac) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 360 520 372] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/phoneview-alternative-mac) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 342 520 354] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/anytrans-alternative-mac) >> >>
+endobj
+14 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 324 520 336] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/drfone-alternative-mac) >> >>
+endobj
+15 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 306 520 318] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/icarefone-alternative-mac) >> >>
+endobj
+16 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 288 550 300] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/export-whatsapp-chat-iphone-mac) >> >>
+endobj
+17 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 270 550 282] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/backup-iphone-to-external-drive-mac) >> >>
+endobj
+18 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 252 550 264] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/iphone-backup-extractor-mac) >> >>
+endobj
+19 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 202 280 214] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/tr/) >> >>
+endobj
+20 0 obj
+<< /Type /Annot /Subtype /Link /Rect [290 202 520 214] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/de/) >> >>
+endobj
+21 0 obj
+<< /Type /Annot /Subtype /Link /Rect [50 186 280 198] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/fr/) >> >>
+endobj
+22 0 obj
+<< /Type /Annot /Subtype /Link /Rect [290 186 520 198] /Border [0 0 0] /A << /S /URI /URI (https://iphonedatamanager.com/es/) >> >>
+endobj
+xref
+0 23
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000370 00000 n 
+0000004079 00000 n 
+0000004149 00000 n 
+0000004224 00000 n 
+0000004366 00000 n 
+0000004520 00000 n 
+0000004671 00000 n 
+0000004820 00000 n 
+0000004987 00000 n 
+0000005156 00000 n 
+0000005324 00000 n 
+0000005490 00000 n 
+0000005659 00000 n 
+0000005834 00000 n 
+0000006013 00000 n 
+0000006184 00000 n 
+0000006331 00000 n 
+0000006479 00000 n 
+0000006626 00000 n 
+trailer
+<< /Size 23 /Root 1 0 R /Info << /Title (iPhone Data Manager for Mac - Technical Guide & Architecture) /Author (iPhone Data Manager) /Subject (macOS iPhone Backup Extractor, External SSD & WhatsApp SHA-256 PDF Export) >> >>
+startxref
+6774
+%%EOF
